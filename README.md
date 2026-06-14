@@ -8,8 +8,7 @@
 </div>
 
 <div align="center">
-    <img src="cover.png" width="600" />
-    <!-- ![Cover](cover.png) -->
+    <img src="public/cover.png" width="600" />
 </div>
 
 <div align="center">
