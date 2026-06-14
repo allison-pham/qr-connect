@@ -30,6 +30,6 @@
 ## Getting Started
 | **Step** | **Instructions** |
 |---|---|
-| Git + GitHub Setup | • Ensure Git is installed ([download](https://git-scm.com/install/windows) based on OS)<br>• Clone [this GitHub repository](https://github.com/allison-pham/qr-connect) using an IDE (e.g. Visual Studio Code)<br>&nbsp;&nbsp;&nbsp;&nbsp;• Click "Code" (green button) > HTTPS > copy `https://github.com/UCR-CS110/final-project-ingredia-ahad-allison-lynvy.git`<br>• Run `git clone "https://github.com/allison-pham/qr-connect"` |
+| Git + GitHub Setup | • Ensure Git is installed ([download](https://git-scm.com/install/windows) based on OS)<br>• Clone [this GitHub repository](https://github.com/allison-pham/qr-connect) using an IDE (e.g. Visual Studio Code)<br>&nbsp;&nbsp;&nbsp;&nbsp;• Click "Code" (green button) > HTTPS > copy the link<br>• Run `git clone "https://github.com/allison-pham/qr-connect"` |
 | Installation | • Run `npm install`<br>• Run `npm install qrcode.react` |
 | Frontend | • Open up terminal: `npm run dev`<br>• Open http://localhost:3000 |
